@@ -1,0 +1,20 @@
+table, tr, th, td{
+    border: solid 1px #000000;
+}
+
+table{
+    width: 400px;
+
+}
+
+.enlace{
+    display: block;
+    width: 130px;
+    height: 130px;
+    background-color: rgb(114, 205, 247);
+}
+
+#bloque{
+    text-align: center;
+    background-color: chartreuse;
+}
